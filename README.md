@@ -1,6 +1,10 @@
 About
 This Dashboard consists of some crucial information regarding the main factors responsible for the attrition of employees from the company.
 
+Microsoft Power BI dashboard link: 
+https://project.novypro.com/THyIQq
+
+
 Problem Statements:
 
 Find the attrition ration depending upon the age group.
